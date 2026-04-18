@@ -13,11 +13,11 @@ improve customer retention**.
 
 This project simulates a **real-world Data Analyst workflow** including:
 
--   Data Cleaning\
--   Exploratory Data Analysis (EDA)\
--   Feature Engineering\
--   Customer Segmentation\
--   Data Visualization\
+-   Data Cleaning
+-   Exploratory Data Analysis (EDA)
+-   Feature Engineering
+-   Customer Segmentation
+-   Data Visualization
 -   Business Insight Generation
 
 ------------------------------------------------------------------------
@@ -26,9 +26,9 @@ This project simulates a **real-world Data Analyst workflow** including:
 
 Many companies have thousands of customers but lack insights such as:
 
--   💰 Which customers generate the most revenue\
--   ⭐ Which customers are loyal\
--   ⚠️ Which customers are likely to churn\
+-   💰 Which customers generate the most revenue
+-   ⭐ Which customers are loyal
+-   ⚠️ Which customers are likely to churn
 -   🎯 How to target customers with marketing campaigns
 
 This project solves these problems using **customer segmentation
@@ -40,10 +40,10 @@ techniques**.
 
 The main objectives of this project are:
 
--   📊 Understand customer purchasing behavior\
--   🏆 Identify high-value customers\
--   ⚠️ Detect customers at risk of churn\
--   🔍 Segment customers using **RFM analysis**\
+-   📊 Understand customer purchasing behavior
+-   🏆 Identify high-value customers
+-   ⚠️ Detect customers at risk of churn
+-   🔍 Segment customers using **RFM analysis**
 -   💡 Generate business insights and recommendations
 
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ The main objectives of this project are:
 
 The following tools were used in this project:
 
--   🐍 Python\
--   📊 Pandas\
--   🔢 NumPy\
--   📈 Matplotlib\
--   🗄️ SQL\
+-   🐍 Python
+-   📊 Pandas
+-   🔢 NumPy
+-   📈 Matplotlib
+-   🗄️ SQL
 -   📓 Jupyter Notebook
 
 ------------------------------------------------------------------------
